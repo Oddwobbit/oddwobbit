@@ -13,8 +13,17 @@ interactive worlds, and experimental games.
 - Experimental and educational games
 - Creative coding and AI-assisted development
 
-## 🔧 Currently learning
-JavaScript · Python · AI APIs · Agent systems
+## 🔧 What I'm working on
+
+Exploring AI-assisted development, autonomous agents,
+and experimental interactive experiences.
+
+My work focuses on interaction design, playful systems,
+and turning unusual ideas into working prototypes.
+
+I'm gradually building stronger programming skills
+to better understand, test, and maintain the systems
+I create.
 
 ## 🧪 My approach
 I build small prototypes, test unusual ideas,
